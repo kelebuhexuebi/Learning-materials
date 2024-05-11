@@ -1,5 +1,0 @@
-aa
-不追踪github仓库是什么样子？
-取消暂存区修改？？
-this is master
-test git revert
